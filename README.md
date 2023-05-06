@@ -1,4 +1,4 @@
-📁 # Repository Search NodeJS
+# 📁 Repository Search NodeJS
 Repository Search NodeJS is a web application built with Express.js that allows users to search for repositories on GitHub. The application uses the GitHub API to search for repositories and display information about them, such as the repository name, description, creation date, license, language, owner email, source, and IP address.
 
 Features
@@ -27,7 +27,7 @@ To install the application, follow these steps:
 GiuCoder
 
 # 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/GiuCoder/REPOSITORY-SEARCH-NODEJS/blob/main/MIT%20LICENSE) file for details.
 
 # Acknowledgments
 
@@ -44,4 +44,3 @@ GiuCoder does not encourage or condone any illegal activities or unethical behav
 # 📱 Social Media
 
 - [YouTube](https://www.youtube.com/channel/UCFH1zkg-QNOCk-c6mfUgCjA)
-ADD EMOJI IN THE TEXT
