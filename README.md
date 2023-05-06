@@ -30,8 +30,9 @@ GiuCoder
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
-- GitHub API Documentation
-= express-rate-limit Documentation
+
+- [GitHub API Documentation](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+- [express-rate-limit Documentation](https://www.npmjs.com/package/express-rate-limit)
 
 # Disclaimer
 The content and information provided by GiuCoder is for educational purposes only. The techniques and tools described in any of the content on this platform, including but not limited to code and tutorials, are intended to be used solely for the purpose of learning about ethical hacking and enhancing cybersecurity knowledge.
