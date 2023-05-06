@@ -16,7 +16,7 @@ To install the application, follow these steps:
 - Clone the repository to your local machine using Git.
 - Open a terminal window and navigate to the project directory.
 - Run npm install to install the project dependencies.
-- Run npm start to start the application.
+- Run npm run dev to start the application.
 - Open a web browser and navigate to http://localhost:3000.
 # 🛠️ Built With
 - [Express.js - Web framework for Node.js](https://expressjs.com/)
