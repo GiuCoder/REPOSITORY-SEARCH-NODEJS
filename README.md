@@ -27,7 +27,7 @@ To install the application, follow these steps:
 GiuCoder
 
 # 📄 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/GiuCoder/REPOSITORY-SEARCH-NODEJS/blob/main/MIT%20LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/GiuCoder/REPOSITORY-SEARCH-NODEJS/main/LICENSE) file for details.
 
 # Acknowledgments
 
