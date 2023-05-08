@@ -13,6 +13,15 @@ const limiter = rateLimit({
 });
 app.use(limiter);
 
+app.get("/welcome", async (req, res, next) => {
+  try {
+    res.sendFile(__dirname + "/public/welcome.html")
+  } catch (err) {
+    next(err);
+  }
+})
+
+
 // Route for searching a repository
 app.get("/", async (req, res, next) => {
   try {
